@@ -1,4 +1,4 @@
 .idea/
 *.iml
-/lecture 1/.ipynb_checkpoints/
 venv/
+.ipynb_checkpoints
